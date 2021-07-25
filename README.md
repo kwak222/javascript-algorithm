@@ -1,2 +1,2 @@
 # javascript-algorithm
-algorithm study
+algorithm study(one algorithm per branch)
